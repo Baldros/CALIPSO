@@ -1,5 +1,7 @@
 # CALIPSO
- 
+# Códigos Legados:
+@becalyra
+
 Produto de Vertical Feature Mask de nível 2 (versão 4.20)
 Descreve a distribuição vertical e horizontal de camadas de nuvens e aerossóis observadas pelo lidar CALIPSO. As flags de classificação são armazenadas como inteiros de 16 bits que descrevem diferentes aspectos dos elementos detectados na atmosfera. A partir das flags de classificação são gerados gráficos do perfil vertical da frequência de detecção de cada tipo de aerossol encontrado. https://www-calipso.larc.nasa.gov/resources/calipso_users_guide/data_summaries/vfm/index_v420.php#feature_classification_flags
 
