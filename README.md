@@ -1,4 +1,4 @@
-# LASA - Laboratório de Aplicações de Satélite:
+# LASA - Laboratório de Aplicações de Satélite Ambientais:
 ## Apresentação:
 Os códigos aqui presentes são frutos de minha Iniciação Ciêntifica financiada pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e desenvolvida junto ao Laboratório de Aplicações de Satélites Ambientais (LASA) da Universidade Federal do Rio de Janeiro (UFRJ).
 
