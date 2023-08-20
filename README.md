@@ -1,5 +1,4 @@
-# LASA - Laboratório de Aplicações de Satélite Ambientais:
-## Apresentação:
+# Apresentação:
 Os códigos aqui presentes são frutos de minha Iniciação Ciêntifica financiada pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e desenvolvida junto ao Laboratório de Aplicações de Satélites Ambientais (LASA) da Universidade Federal do Rio de Janeiro (UFRJ).
 
 Parte dos códigos aqui presentes são códigos legados adaptados para o meu objeto de estudoe e o motivo desses códigos legados estarem aqui é pela necessidade de transmitir a terceiros as adaptações que elaborei, de modo a exercer um trabalho colaborativo, como é feito a boa ciência. Os códigos legados estão devidamente sinalizados cada qual na apresentação feita no próprio código.
