@@ -1,0 +1,5 @@
+# Proposta
+
+A proposta do projeto foi executar um processo de ETL (Extract, Transform and Load) 
+completo. Extraindo e transformando os dados via python, carregando em um 
+SGBD (MySQL) e por fim o consumo por uma ferramenta de visualização (Power BI).
