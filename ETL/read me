@@ -1,5 +1,21 @@
-# Proposta
+# Proposta:
 
-A proposta do projeto foi executar um processo de ETL (Extract, Transform and Load) 
+  A proposta do projeto foi executar um processo de ETL (Extract, Transform and Load) 
 completo. Extraindo e transformando os dados via python, carregando em um 
 SGBD (MySQL) e por fim o consumo por uma ferramenta de visualização (Power BI).
+
+# Códigos:
+  O código construido no jupyter notebook é o arquivo principal, que contém
+a coneção em si com o SGBD (MySQL), também consta nele todo o processo de tratamento
+que não é tão importante aqui, mas que, caso tenha curiosidade, consta descrito
+na pasta principal desse mesmo repositório.
+
+  O segundo arquivo, .py, é utilizado como modulo constando as funções utilizadas para
+a manipulação da informação e a transferencia para o SGBD. Tudo foi transformardo em
+função e modularizado em outro código para facilitar a visualização e legibilidade
+do código principal.
+
+  O arquivo .py ainda está sendo construido, então sinta-se a vontade para contribuir com
+o projeto na medida que puder. A ideia é acrentar para além das funções que executem as
+operações CRUD, também acrescentar funções para as operações de DDL (Data Definition Language),
+DML (Data Manipulation Language), DCL (Data Control Language), etc.
