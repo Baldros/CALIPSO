@@ -1,8 +1,10 @@
+# Dependências Utilizadas:
 import os
-from pyhdf.SD import SD, SDC
-import pandas as pd
+import json
 import numpy as np
+import pandas as pd
 from typing import Any
+from pyhdf.SD import SD, SDC
 
 # Função que retorna dados das flags organizadas em arrays de 3 dimensões (lat x perfil x altitude)
 
